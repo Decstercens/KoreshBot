@@ -11,6 +11,8 @@
 # BlueJ files
 *.ctxt
 
+#iml Files
+*.iml
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
